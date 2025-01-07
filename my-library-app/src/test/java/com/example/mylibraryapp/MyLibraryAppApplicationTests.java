@@ -1,4 +1,4 @@
-package com.example.my_library_app;
+package com.example.mylibraryapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
