@@ -20,6 +20,7 @@ To prevent this, the project POM contains empty overrides for these elements.
 If you manually switch to a different parent and actually want the inheritance, you need to remove those overrides.
 
 **********************************************************
+https://habr.com/ru/articles/735274/?code=a74503b1e6ea9e35c5447832e7ae12af&state=DFF2Q0DBV67HgBwqtkCITLCC&hl=ru
 
 В данной статье попробую рассказать как написать docker-compose.yml для контейнеризации простого приложения, которое будет состоять из фронта на React, бэкенда на Spring Boot, также будем использовать базу данных PostgreSQL, а для просмотра данных в базе pgAdmin.
 
